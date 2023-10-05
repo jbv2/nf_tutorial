@@ -1,0 +1,9 @@
+## ignore nf.logs
+.nextflow.log*
+.nextflow/
+
+## ignore workdirw
+work*
+
+.nextflow* 
+results/
